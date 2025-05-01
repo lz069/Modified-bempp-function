@@ -14,7 +14,7 @@ Procedure for adding the system PATH variable:
 
 6. Restart any open command prompts or restart your computer to apply the changes.
 
-==================================================================================================================================================================ATTENTION========================================================================================================================================================================
+=======================================================================================================ATTENTION======================================================================================================================
 \Lib\site-packages\bempp\api\external\viewers.py
 
 To launch GMSH.exe as external programm successfully, the viewer.py has to be substituted by the modified one provided in the folder. The above path (\Lib\site-packages\bempp\api\external\viewers.py) is where the viewer.py should be placed.
