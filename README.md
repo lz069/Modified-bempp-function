@@ -1,3 +1,5 @@
+The viewer.py is the one file of bempp-cl after modified.
+
 To use the efly-GUI version in Windows system (Win10/Win11 suggested), except the necessary environment setup, GMSH.exe programm (https://gmsh.info/bin/Windows/gmsh-4.13.1-Windows64.zip) is necessary. Please download it and Adding the directory to the system PATH variable.
 
 Procedure for adding the system PATH variable:
